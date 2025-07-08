@@ -57,6 +57,9 @@ git clone https://github.com/abeatrizdscoelho/T2.git
 ### Abrindo um Terminal
 > Abra um terminal no VSCode para instalar as dependências.
 ```bash
+cd T2
+  ```
+```bash
 npm install
   ```
 
